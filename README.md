@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, ML, AI**
 
-- 📫 How to reach me **mehmetbgumus@gmail.com**
+- 📫 How to reach me **mehmet@buyukgumus.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
