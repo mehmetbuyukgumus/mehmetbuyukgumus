@@ -4,3 +4,5 @@
 - 🔭 I’m currently working on [Baysansoft](http://baysansoft.com)
 
 - 💬 Ask me about **Python, ML, AI**
+- ✉️ How to reach me mehmetbgumus@gmail.com
+
